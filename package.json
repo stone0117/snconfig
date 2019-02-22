@@ -1,0 +1,20 @@
+{
+  "name": "snconfig",
+  "version": "0.1.2",
+  "description": "snconfig",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stone0117/snconfig.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stone0117/snconfig/issues"
+  },
+  "homepage": "https://github.com/stone0117/snconfig#readme"
+}
